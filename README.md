@@ -51,5 +51,3 @@ Aunque este es principalmente un repositorio personal, si encuentras algún erro
 ¡Gracias por visitar mi repositorio de notas! Espero que te sea útil de alguna manera o simplemente te inspire a crear tu propio sistema de organización de conocimientos.
 
 ---
-
-HOLA
