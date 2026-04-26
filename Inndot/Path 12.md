@@ -119,4 +119,4 @@ La plataforma central para recopilar telemetría de todas partes (aplicaciones, 
 * **Métricas y Registros (Logs):** Las métricas son valores numéricos en el tiempo (ej. % de CPU). Los registros son datos textuales con marca de tiempo (logs de errores).
 * **Azure Log Analytics:** El buscador de tus logs. Utiliza KQL (Kusto Query Language) para buscar patrones entre millones de líneas de código.
 * **Application Insights:** Enfocado en desarrolladores. Monitorea errores de código, tiempos de carga de la web y comportamiento de usuarios en la aplicación.
-* **Alertas y Grupos de Acción:** Automatizan respuestas. Si la RAM llega al 90% (Alerta), el sistema puede enviar un aviso o ejecutar un script (Grupo de Acción).
+* **Alertas y Grupos de Acción:** Automatizan respuestas. Si la RAM llega al 90% (Alerta), el sistema puede enviar un aviso o ejecutar un script (Grupo de Acción)
