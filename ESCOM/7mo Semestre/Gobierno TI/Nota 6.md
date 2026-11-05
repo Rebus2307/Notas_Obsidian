@@ -3,3 +3,11 @@
 - Emprender algo de manera sistemática y planeada.
 - Emprender un esfuerzo temporal para crear un prodcuto o un servicio único.
 
+Triángulo del proyecto 
+- Alcance
+- Tiempo
+- Costo
+- Calidad 
+
+Contrato 
+Acta de inicio del proyecto o criterios de aceptación 
